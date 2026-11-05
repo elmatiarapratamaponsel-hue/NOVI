@@ -1,0 +1,6 @@
+{
+  "name": "NOVI - Your Digital Novel Library",
+  "description": "Aplikasi perpustakaan novel digital pribadi untuk menyimpan, mengelola, mencari, dan membaca koleksi novel dalam satu tempat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
